@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lexzx.prestamos",
+      "sha256_cert_fingerprints": [
+        "F0:EA:27:7A:5F:CB:E2:C0:3F:E2:26:13:BD:E9:C8:5A:FD:54:9E:C1:C0:EA:C0:3E:CA:C8:1A:1A:06:A2:2F:6E"
+      ]
+    }
+  }
+]
